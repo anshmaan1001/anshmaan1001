@@ -15,6 +15,7 @@ K.R. Mangalam University | India
 
 ## Projects
 - [CSE103 Lab — LAB 3](https://github.com/anshmaan1001/cse103-lab-LAB3) — coursework repository for my computer science fundamentals lab.
+- [Developer Portfolio files](portfolio/README.md) — learning roadmap, progress tracker, presentation script and HTML portfolio.
 
 ## Current Learning Goals
 - Strengthen Python programming fundamentals.
