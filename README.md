@@ -1,39 +1,30 @@
-# Hi, I am Ansh Maan! 👋
+# Hi, I'm Ansh Maan 👋
+
+**BCA (Artificial Intelligence & Data Science) Student**  
+K.R. Mangalam University | India
 
 ## About Me
+- I am a first-year BCA student focusing on Artificial Intelligence and Data Science.
+- Currently building my foundations in Python, Git/GitHub, computer fundamentals, and problem solving.
+- Interested in Data Science and AI/ML, and learning step by step through coursework and practical projects.
 
-- 🎓 BCA (Artificial Intelligence & Data Science) Student
-- 🏫 K.R. Mangalam University
-- 💻 Currently learning Python, Linux, Git and GitHub
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Data Science
-- 🚀 Building my programming skills through academic projects and practical learning
+## Learning Skills
+- **Programming:** Python (beginner)
+- **Developer tools:** Git, GitHub, VS Code
+- **Current focus:** Programming fundamentals, version control, documentation, and problem solving
 
-## Technical Skills
+## Projects
+- [CSE103 Lab — LAB 3](https://github.com/anshmaan1001/cse103-lab-LAB3) — coursework repository for my computer science fundamentals lab.
 
-| Category | Technologies |
-|---|---|
-| Programming Languages | Python |
-| Tools | Git, GitHub, VS Code |
-| Operating Systems | Linux, Windows |
-| Concepts | Problem Solving, Data Science Fundamentals |
+## Current Learning Goals
+- Strengthen Python programming fundamentals.
+- Practise beginner coding problems consistently.
+- Build small projects and document them clearly.
+- Explore Data Science and AI/ML concepts.
 
-## Featured Projects
+## Connect
+- GitHub: [@anshmaan1001](https://github.com/anshmaan1001)
+- LinkedIn: Add your public LinkedIn profile URL here.
 
-- **CSE103 Lab Projects**
-  - Academic programming and computer science fundamentals.
-  - Practicing Git, GitHub and documentation.
-
-- **Python Projects**
-  - Beginner Python programs and practical assignments.
-
-## Currently Working On
-
-- Improving Python programming skills
-- Learning Linux commands and shell scripting
-- Understanding Git and GitHub workflows
-- Exploring Artificial Intelligence and Data Science
-
-## Connect With Me
-
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
-- Email: YOUR_EMAIL_ADDRESS
+---
+*This profile is a work in progress. I will update it as I complete projects and learning milestones.*
